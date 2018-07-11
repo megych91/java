@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+}
+.container{
+    width: 50%;
+    margin-top: 15%;
+    padding: 2%;
+    background-color: paleturquoise;
+    padding-bottom: 5%;
+    text-align: center;
+    color: palevioletred;
+    font-family: 'Russo One', sans-serif;
+    border: 2px dashed black;
+}
+h1{
+    font-size: 80px;
+}
