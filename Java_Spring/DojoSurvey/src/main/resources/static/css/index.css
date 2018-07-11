@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+}
+.container{
+    background: linear-gradient(rgb(230, 109, 139),rgb(242, 174, 191), white);
+    border: 2px dashed rgb(63, 63, 63);
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+form{
+    width: 60%;
+}
+textarea {
+    resize: none;
+ }
