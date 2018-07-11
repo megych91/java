@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: meggiechen
+Build-Jdk: 10.0.1
+Implementation-Title: Language
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codingdojo.language
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Language
+Created-By: Maven Integration for Eclipse
+
