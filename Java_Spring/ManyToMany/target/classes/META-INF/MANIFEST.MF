@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: meggiechen
+Build-Jdk: 10.0.1
+Implementation-Title: ManyToMany
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codingdojo.ManyToMany
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ManyToMany
+Created-By: Maven Integration for Eclipse
+

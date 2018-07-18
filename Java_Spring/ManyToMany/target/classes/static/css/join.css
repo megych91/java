@@ -1,0 +1,14 @@
+*{
+    margin: auto
+    font-family: 'Song Myung', serif;
+}
+.box{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	display: block;
+}
+.nav{
+	float: right;
+	margin-right: 10%;
+}
